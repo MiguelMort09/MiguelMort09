@@ -84,16 +84,6 @@ Como profesional en el software, me destaco por mi capacidad para encontrar solu
 ![Payment Gateways](https://img.shields.io/badge/payment_gateways-%2300A8E8.svg?style=for-the-badge&logo=payment&logoColor=white)
 ![Finkargo](https://img.shields.io/badge/finkargo-%2300A8E8.svg?style=for-the-badge&logo=finkargo&logoColor=white)
 
-## 🛠️ **Professional Expertise:**
-
-  - Integración de facturación electrónica
-  - Pasarelas de pago
-  - Configuración de servidores
-  - AWS Linux & Lightsail
-  - Auto-gestión y diseño de soluciones
-  - Estimación de proyectos y manejo de clientes
-  - Juntas con clientes y diseño de soluciones
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=MiguelMort09&theme=tokyonight&show_icons=true/460/300"></p>
