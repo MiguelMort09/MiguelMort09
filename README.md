@@ -86,7 +86,12 @@ Como profesional en el software, me destaco por mi capacidad para encontrar solu
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=MiguelMort09&theme=tokyonight&show_icons=true/460/300"></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMort09" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelMort09&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
  
