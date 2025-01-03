@@ -3,7 +3,7 @@
 Full Stack Developer | PHP & Laravel Specialist | Frontend Enthusiast
 </h3>
 <h3 align="center">
-  <a href="miguelmort.tech" target=”_blank”>
+  <a href="https://miguelmort.tech" target=”_blank”>
     miguelmort.tech
   </a>
 </h3>
