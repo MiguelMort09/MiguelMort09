@@ -87,10 +87,18 @@ Como profesional en el software, me destaco por mi capacidad para encontrar solu
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMort09" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMort09&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelMort09&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelMort09&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+
+## 💼 **Projects**:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelMort09&repo=PortfoliMiguelUicab&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelMort09&repo=kodikas&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 
 
